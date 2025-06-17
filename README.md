@@ -38,3 +38,9 @@
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=alstjr971" height="150"/>
 </div>
 
+
+## 📫 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-alstjr971@naver.com-blue?style=flat&logo=maildotru&logoColor=white)](mailto:alstjr971@naver.com)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@alstjr971/posts)
+

@@ -33,11 +33,45 @@
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-45B8D8?style=for-the-badge)
 
+---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayfifth99&show_icons=true" height="150"/>
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=alstjr971" height="150"/>
 </div>
 
+
+---
+
+## ⚙️ Projects
+
+### 🧪 개인 토이 프로젝트
+
+| Name                                | Description                                 | Stack                         | GitHub |
+|-------------------------------------|---------------------------------------------|-------------------------------|--------|
+| User Feed Service                   | 유저 맞춤 피드 제공 API 구현                 | Spring Boot, JPA, MySQL       | [🔗]([https://github.com/yourusername/user-feed-service](https://github.com/MAYFIFTH99/twitter)) |
+| WebSocket을 이용한 채팅 서비스      | 실시간 채팅 서비스 구현                     | Spring WebSocket, Redis       | [🔗]([https://github.com/yourusername/chat-service](https://github.com/MAYFIFTH99/websocket)) |
+| Kafka를 이용한 고성능 알림 서비스   | Kafka 기반 이벤트 알림 시스템               | Kafka, Spring Cloud, MongoDB        | [🔗]([https://github.com/yourusername/notification-service](https://github.com/MAYFIFTH99/kafka-notification)) |
+| K8S 기반 인증 서비스                | K8S 환경에서 인증 시스템 구축 및 배포        | Spring Security, K8S, Docker  | [🔗]([https://github.com/yourusername/auth-service-k8s](https://github.com/MAYFIFTH99/k8s-auth)) |
+
+---
+
+### 👥 팀 프로젝트
+
+| Name                                | Description                                  | Role         | GitHub |
+|-------------------------------------|----------------------------------------------|--------------|--------|
+| Aegis 개발 동아리 웹 페이지         | 동아리 소개 및 지원 관리 웹사이트 개발        | BE | [🔗]([https://github.com/yourorg/aegis-homepage](https://github.com/MAYFIFTH99/aegis-server)) |
+| 큐싱 예방 프로젝트                  | 악성 QR 탐지 및 인증 QR 생성           | PM, BE       | [🔗]([https://github.com/yourorg/qr-anti-phishing](https://github.com/MAYFIFTH99/QRust-BE)) |
+
+---
+
+### 🔧 진행 중
+
+| Name                              | Description                                     | 진행 상황         | GitHub |
+|-----------------------------------|-------------------------------------------------|-------------------|--------|
+| 사설 도커 이미지 관리 서비스     | 사내 이미지 저장소 및 사용자,이미지 활동 로깅 제공       | 스프링 AOP를 이용한 로깅 처리 작업 구현 | [🔗]([https://github.com/yourusername/private-docker-registry](https://github.com/MAYFIFTH99/docker-registry)) |
+
+---
 
 ## 📫 Contact Me
 

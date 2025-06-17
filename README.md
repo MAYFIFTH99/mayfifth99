@@ -33,4 +33,8 @@
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-45B8D8?style=for-the-badge)
 
-![Mayfifth99's github stats](https://github-readme-stats.vercel.app/api?username=mayfifth99&show_icons=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayfifth99&show_icons=true" height="150"/>
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=alstjr971" height="150"/>
+</div>
+

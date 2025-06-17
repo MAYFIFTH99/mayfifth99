@@ -69,9 +69,3 @@
 |------------------|-----------------------------------|-------------------------------------------------|----------------------------------------|--------|
 | 2025.06 ~ 진행 중 | 사설 도커 이미지 관리 서비스     | 사내 이미지 저장소 및 사용자, 이미지 활동 로깅 제공 | 스프링 AOP를 이용한 로깅 처리 작업 구현 | [🔗](https://github.com/MAYFIFTH99/docker-registry) |
 
----
-
-## 📫 Contact Me
-
-[![Email](https://img.shields.io/badge/Email-alstjr971@naver.com-blue?style=flat&logo=maildotru&logoColor=white)](mailto:alstjr971@naver.com)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@alstjr971/posts)

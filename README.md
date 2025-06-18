@@ -47,10 +47,11 @@
 
 | Period           | Name                              | Description                                 | Stack                         | GitHub |
 |------------------|-----------------------------------|---------------------------------------------|-------------------------------|--------|
-| 2024.12 ~ 2025.03 | User Feed Service                 | 유저 맞춤 피드 제공 API 구현                 | Spring Boot, JPA, MySQL       | [🔗](https://github.com/MAYFIFTH99/twitter) |
 | 2025.01 ~ 2025.02 | WebSocket을 이용한 채팅 서비스    | 실시간 채팅 서비스 구현                     | Spring WebSocket, Redis       | [🔗](https://github.com/MAYFIFTH99/websocket) |
 | 2025.02 ~ 2025.04 | Kafka를 이용한 고성능 알림 서비스 | Kafka 기반 이벤트 알림 시스템               | Kafka, Spring Cloud, MongoDB  | [🔗](https://github.com/MAYFIFTH99/kafka-notification) |
 | 2025.02 ~ 2025.04 | K8S 기반 통합 인증 서비스              | K8S 환경에서 인증 시스템 구축 및 배포        | Spring Security, K8S, Docker  | [🔗](https://github.com/MAYFIFTH99/k8s-auth) |
+| 2025.05 ~ 2025.06 | 사설 도커 이미지 관리 서비스     | 사내 이미지 저장소 및 사용자, 이미지 활동 로깅 제공 | Spring AOP, Docker Registry(Distribution) | [🔗](https://github.com/MAYFIFTH99/docker-registry) |
+
 
 ---
 
@@ -67,5 +68,5 @@
 
 | Period           | Name                              | Description                                     | 진행 상황                             | GitHub |
 |------------------|-----------------------------------|-------------------------------------------------|----------------------------------------|--------|
-| 2025.06 ~ 진행 중 | 사설 도커 이미지 관리 서비스     | 사내 이미지 저장소 및 사용자, 이미지 활동 로깅 제공 | 스프링 AOP를 이용한 로깅 처리 작업 구현 | [🔗](https://github.com/MAYFIFTH99/docker-registry) |
+| 2025.06 ~ 진행 중 | REDIS를 활용한 성능 최적화     | 유튜브/틱톡 서비스 개발 | REDIS | [🔗]() |
 

@@ -43,6 +43,15 @@
 
 ## ⚙️ Projects
 
+### 👥 팀 프로젝트
+
+| Period           | Name                              | Description                                  | Role         | GitHub |
+|------------------|-----------------------------------|----------------------------------------------|--------------|--------|
+| 2024.09 ~ 2025.03 | Aegis 개발 동아리 웹 페이지       | 동아리 소개 및 지원 관리 웹사이트 개발        | BE           | [🔗](https://github.com/MAYFIFTH99/aegis-server) |
+| 2025.03 ~ 2025.07 | 큐싱 예방 프로젝트                | 악성 QR 탐지 및 인증 QR 생성 시스템 개발      | PM, BE       | [🔗](https://github.com/MAYFIFTH99/QRust-BE) |
+
+---
+
 ### 🧪 개인 토이 프로젝트
 
 | Period           | Name                              | Description                                 | Stack                         | GitHub |
@@ -52,15 +61,6 @@
 | 2025.02 ~ 2025.04 | K8S 기반 통합 인증 서비스              | K8S 환경에서 인증 시스템 구축 및 배포        | Spring Security, K8S, Docker  | [🔗](https://github.com/MAYFIFTH99/k8s-auth) |
 | 2025.05 ~ 2025.06 | 사설 도커 이미지 관리 서비스     | 사내 이미지 저장소 및 사용자, 이미지 활동 로깅 제공 | Spring AOP, Docker Registry(Distribution) | [🔗](https://github.com/MAYFIFTH99/docker-registry) |
 
-
----
-
-### 👥 팀 프로젝트
-
-| Period           | Name                              | Description                                  | Role         | GitHub |
-|------------------|-----------------------------------|----------------------------------------------|--------------|--------|
-| 2024.09 ~ 2025.03 | Aegis 개발 동아리 웹 페이지       | 동아리 소개 및 지원 관리 웹사이트 개발        | BE           | [🔗](https://github.com/MAYFIFTH99/aegis-server) |
-| 2025.03 ~ 2025.07 | 큐싱 예방 프로젝트                | 악성 QR 탐지 및 인증 QR 생성 시스템 개발      | PM, BE       | [🔗](https://github.com/MAYFIFTH99/QRust-BE) |
 
 ---
 
